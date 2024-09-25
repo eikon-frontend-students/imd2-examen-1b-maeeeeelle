@@ -144,3 +144,60 @@ h3 {
 }
 
 /* 04. Intégration */
+
+.entier {
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+  background: #f7fafd;
+}
+
+.page {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.1);
+}
+
+.orange {
+  width: 251.004px;
+  height: 250px;
+  border-radius: 20px 20px 0px 0px;
+}
+
+p {
+  color: #fff;
+  font-size: 12px;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  background: #fbbd3c;
+}
+
+.page h1 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.nom {
+  font-family: "Open Sans";
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
+.bas {
+  display: flex;
+  height: 50px;
+  padding: 0px 20px;
+  align-items: center;
+  gap: 76px;
+}
