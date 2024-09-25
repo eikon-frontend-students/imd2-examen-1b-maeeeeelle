@@ -80,19 +80,19 @@ h3 {
   font-family: "Playfair Display";
 }
 
-.section-sport h3{
+.section-sport h3 {
   color: #c1121f;
 }
 
-.section-culture h3{
+.section-culture h3 {
   color: #669bbc;
 }
 
-.section-regions .highlight{
+.section-regions .highlight {
   font-weight: bold;
 }
 
-.highlight.colored{
+.highlight.colored {
   background: #fdf0d5;
 }
 
@@ -115,7 +115,8 @@ h3 {
   text-transform: uppercase;
 }
 
-.link-container, .calltoaction{
+.link-container,
+.calltoaction {
   display: flex;
   justify-content: center;
   margin: auto;
@@ -129,6 +130,8 @@ h3 {
   padding: 20px;
   border-radius: 10px;
   background: #669bbc;
+  display: flex;
+  align-items: center;
 }
 
 .button {
@@ -137,6 +140,7 @@ h3 {
   background: #780000;
   color: #fdf0d5;
   text-align: center;
+  padding: 20px;
 }
 
 /* 04. Intégration */
