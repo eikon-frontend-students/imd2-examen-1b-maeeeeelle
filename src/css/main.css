@@ -92,7 +92,7 @@ h3 {
   font-weight: bold;
 }
 
-.highlight .colored{
+.highlight.colored{
   background: #fdf0d5;
 }
 
@@ -115,6 +115,11 @@ h3 {
   text-transform: uppercase;
 }
 
+.link-container, .calltoaction{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
 /* 03. Centrer verticalement */
 
 .card {
